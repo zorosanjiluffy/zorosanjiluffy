@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **MEAN Stack**
 
 - 💬 Ask me about **react,.NET**
+- 
+- ➡️ My CV **https://app.luminpdf.com/viewer/670d5bbdb065432e1960d422**
 
 - 📫 How to reach me **dhanu2004416@gmail.com**
 
