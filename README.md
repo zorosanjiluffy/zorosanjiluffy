@@ -1,7 +1,7 @@
 ![logo](https://github.com/zorosanjiluffy/zorosanjiluffy/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://in.images.search.yahoo.com/search/images;_ylt=AwrKDvxvUw1nMwIAgea7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=coding+gif&fr2=piv-web&type=E210IN885G0&fr=mcafee#id=7&iurl=https%3A%2F%2Fraw.githubusercontent.com%2FAlaeddineMessadi%2FAlaeddineMessadi%2Fmain%2Fweb-developer-chilling.gif&action=click">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zorosanjiluffy&label=Profile%20views&color=0e75b6&style=flat" alt="zorosanjiluffy" /> </p>
 
 - 🌱 I’m currently learning **MEAN Stack**
